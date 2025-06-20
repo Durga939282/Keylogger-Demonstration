@@ -125,13 +125,16 @@ Follow these steps to set up and run the project locally.
 > **Note**: Upload actual screenshots to an `assets/` folder in your repository (e.g., `assets/homepage.png`) or an external host (e.g., Imgur) and update the URLs below.
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400.png?text=Homepage+Screenshot)
+![Screenshot (43)](https://github.com/user-attachments/assets/2f5de789-26ce-4eb8-aa76-4b2f523b1cf3)
+
 
 ### Keylogger Control
-![Keylogger](https://via.placeholder.com/800x400.png?text=Keylogger+Control+Screenshot)
+![Screenshot (44)](https://github.com/user-attachments/assets/ce0504b1-712f-4011-9dad-a89dfcb09cab)
+
 
 ### Detector Results
-![Detector](https://via.placeholder.com/800x400.png?text=Detector+Results+Screenshot)
+![Screenshot (45)](https://github.com/user-attachments/assets/72e8131d-3d76-4aeb-bfae-4e42904f6e28)
+
 
 ---
 
@@ -181,11 +184,7 @@ Contributions are welcome! 🙌 To contribute:
 
 ---
 
-## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙏 Acknowledgments
 
